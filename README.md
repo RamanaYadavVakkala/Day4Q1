@@ -1,1 +1,1 @@
-# Day4Q1
+This repository is for Git command challenge
